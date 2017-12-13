@@ -1,0 +1,14 @@
+node_modules/
+.idea/
+npm-debug.log
+npm-debug.log.*
+log/*.log
+log/*.log.*
+*.iml
+*.swp
+target
+src/client/public/*
+.babel.json
+.disabled
+.node-version
+test.js
