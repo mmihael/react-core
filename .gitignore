@@ -12,3 +12,4 @@ src/client/public/*
 .disabled
 .node-version
 test.js
+build/
